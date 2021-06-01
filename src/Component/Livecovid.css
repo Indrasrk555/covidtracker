@@ -1,0 +1,173 @@
+table,td,th{
+    font-size: 20px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: auto;
+}
+#heading{
+    font-size: 38px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(15, 140, 241);
+
+}
+#state{
+    color: blue;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#active{
+    color: blue;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#death{
+    cursor: pointer;
+    color: rgb(245, 18, 18);
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.abc{
+    cursor: pointer;
+}
+.abc:hover{
+    background-color: rgb(91, 174, 241);
+}
+#confirm{
+    cursor: pointer;
+    color: rgb(243, 133, 30);
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#recovered{
+    cursor: pointer;
+    color: rgb(20, 204, 20);
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#lut{
+    cursor: pointer;
+    color: blue;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#listofst{
+    font-family:monospace;
+    font-weight: 550;
+}
+#listofst:hover{
+    color: rgb(255, 255, 255);
+}
+#lstofac{
+    font-family:monospace;
+}
+#lstofac:hover{
+    background-color: blue;
+    color: whitesmoke
+}
+#confirm1{
+    font-family:monospace;
+}
+#confirm1:hover{
+    background-color: rgb(241, 187, 85);
+    color: rgb(255, 7, 7);
+}
+#death1{
+    font-family:monospace;
+}
+#death1:hover{
+    background-color: red;
+    color: rgb(255, 255, 255);
+}
+#recovered1{
+    font-family:monospace;
+}
+#recovered1:hover{
+    background-color: rgb(33, 165, 33);
+    color: rgb(255, 255, 255);
+}
+#lut1{
+    font-family:monospace;
+}
+#lut1:hover{
+    background-color: rgb(139, 248, 197);
+    color: black;
+}
+.topone{
+    align-items: left;
+    margin-left: 40px;
+    margin-right: 200px;
+}
+#impds{
+    text-align: left;
+    margin-left: 100px;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(148, 74, 233);
+}
+.foot{
+    text-align: left;
+    margin-left: 40px;
+    margin-right: 200px;
+}
+#title{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: left;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 17px;
+    padding-bottom: 7px;
+}
+#myInput{
+    width: 500px;
+    height: 40px;
+    margin-bottom: 20px;
+    text-align: center;
+    border-radius: 7px;
+}
+#icn{
+    margin-right: 10px;
+    color: rgb(248, 70, 70);
+    height: 20px;
+    width: 20px;
+}
+.w-100{
+    height: 600px;
+    width: 1550px;
+}
+.vac{
+    background-image: linear-gradient(to right, rgba(71, 226, 24, 0), rgb(250, 126, 11));
+}
+.searchbar{
+    margin-top: 30px;
+}
+.tble{
+    margin-top: 40px;
+    background-image: linear-gradient(to bottom, rgba(239, 116, 250, 0), rgb(255, 107, 81));
+}
+.stop{
+    margin-top: 50px;
+}
+#srcimg{
+    height: 100px;
+    width: 300px;
+}
+.searchimage{
+    margin-top: 20px;
+}
+fieldset {
+    background-color: #eeeeee;
+    border-radius: 7px;
+    width: 1400px;
+    margin-left: 24px;
+    margin-right: 24px;
+  }
+  
+  legend {
+    /* background-color: gray; */
+    font-weight: 700;
+    color: white;
+    padding: 5px 10px;
+  }
